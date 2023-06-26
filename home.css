@@ -1,0 +1,32 @@
+html{
+    scroll-behavior: smooth;
+}
+.logo{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 140px;
+    /* border: solid white; */
+    /* border-radius: 80px; */
+}
+
+.navitems{
+    font-size: 18px;
+    font-weight: 700;
+}
+.navitems:hover{
+    color:rgb(20, 204, 112);
+}
+#home{
+    color: rgb(20, 204, 112);
+}
+.name{
+    color: rgb(20, 204, 112);
+    font-weight: 500;
+}
+.dp{
+    border: 2px solid black;
+}
